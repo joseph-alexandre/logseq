@@ -1,0 +1,3 @@
+- https://jamesclear.com/deliberate-practice-theory
+- https://fs.blog/deliberate-practice-guide/
+- https://www.youtube.com/watch?v=oUPaJxk6TZ0

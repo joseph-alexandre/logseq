@@ -1,0 +1,11 @@
+- https://www.javatpoint.com/behavioral-design-patterns
+- [[Chain of Responsibility]]
+- [[Mediator]]
+- [[State]]
+- [[Visitor]]
+- [[Command]]
+- [[Memento]]
+- [[Strategy]]
+- [[Iterator]]
+- [[Observer]]
+- [[Template Method]]

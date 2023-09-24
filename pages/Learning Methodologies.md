@@ -1,0 +1,3 @@
+- https://www.learnlife.com/learning-methodologies
+- [[Deliberate Practice]]
+- [[Memorization]]

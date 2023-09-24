@@ -1,0 +1,8 @@
+- https://www.javatpoint.com/structural-design-patterns
+- [[Adapter]]
+- [[Bridge]]
+- [[Composite]]
+- [[Decorator]]
+- [[Facade]]
+- [[Flyweight]]
+- [[Proxy]]

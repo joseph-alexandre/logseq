@@ -1,0 +1,2 @@
+- https://devpizza.medium.com/como-gerenciar-pacotes-no-windows-utilizando-chocolatey-95eb762f8c31
+- https://www.puppet.com/blog/what-is-chocolatey

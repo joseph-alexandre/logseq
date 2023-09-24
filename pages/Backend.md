@@ -1,0 +1,7 @@
+- https://www.coursera.org/articles/back-end-developer
+- https://www.upwork.com/resources/beginners-guide-back-end-development
+- https://blog.hubspot.com/website/back-end-developer
+- https://roadmap.sh/backend
+- [[Programming Language]]
+- [[Java]]
+- [[RDBMS]]

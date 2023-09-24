@@ -1,0 +1,4 @@
+- https://www.computerhope.com/jargon/w/windows.htm
+- https://www.youtube.com/playlist?list=PL4FmbPBGaOC6_qK50--_ldPr_lrQGDNse
+- [[Powershell]]
+- [[Chocolatey]]

@@ -1,0 +1,5 @@
+- https://sourcemaking.com/design_patterns
+- https://refactoring.guru/design-patterns/what-is-pattern
+- [[Creational Pattern]]
+- [[Structural Pattern]]
+- [[Behavioral Patterns]]

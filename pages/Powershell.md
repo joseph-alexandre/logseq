@@ -1,0 +1,2 @@
+- https://www.techtarget.com/searchwindowsserver/tip/Top-PowerShell-commands-you-must-know-with-cheat-sheet
+- https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3

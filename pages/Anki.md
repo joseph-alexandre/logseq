@@ -1,0 +1,3 @@
+- https://apps.ankiweb.net
+- https://leananki.com/how-to-use-anki-tutorial/
+- https://ankiweb.net/shared/decks

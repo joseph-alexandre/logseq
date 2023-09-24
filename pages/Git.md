@@ -1,0 +1,14 @@
+- https://github.com/PauloGoncalvesBH/treinamento-git
+- https://www.udemy.com/course/git-e-github-para-iniciantes/
+- https://www.udemy.com/course/git-e-github/
+- https://www.conventionalcommits.org/en/v1.0.0/
+- https://www.toptal.com/developers/gitignore
+- https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04
+- https://docs.github.com/en/get-started/quickstart/set-up-git
+- https://learngitbranching.js.org/?locale=pt_BR
+- http://git-school.github.io/visualizing-git/
+- https://dev.to/javinpaul/5-free-courses-to-learn-git-and-github-in-depth-jpp
+- https://javarevisited.blogspot.com/2018/01/5-free-git-courses-for-programmers-to-learn-online.html
+- https://gitimmersion.com/index.html
+- [[Github]]
+- [[Semantic Versioning]]
