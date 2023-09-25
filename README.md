@@ -1,0 +1,2 @@
+# logseq
+Base de conhecimento.
