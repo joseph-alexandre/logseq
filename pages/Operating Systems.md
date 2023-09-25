@@ -1,0 +1,4 @@
+- https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/
+- [[Windows]]
+- [[Linux]]
+- [[Package Manager]]

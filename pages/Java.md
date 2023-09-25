@@ -1,0 +1,8 @@
+- https://aws.amazon.com/pt/what-is/java/
+- https://www.java.com/en/download/help/whatis_java.html
+- https://medium.com/javarevisited/10-articles-java-developers-should-read-this-week-7648edd18a22
+- https://www.udemy.com/course/java-curso-completo/
+- https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
+- https://dev.to/search?q=java
+- https://github.com/iluwatar/java-design-patterns
+- [[Spring]]

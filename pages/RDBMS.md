@@ -1,0 +1,7 @@
+- https://www.techtarget.com/searchdatamanagement/definition/RDBMS-relational-database-management-system
+- https://cloud.google.com/learn/what-is-a-relational-database?hl=pt-br
+- https://www.hti.com.br/blog-mobile/555-o-que-e-rdbms-conheca-as-principais-caracteristicas
+- https://www.javatpoint.com/what-is-rdbms
+- https://www.oracle.com/br/database/what-is-a-relational-database/
+- [[PostgreSQL]]
+- [[Oracle]]

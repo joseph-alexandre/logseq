@@ -1,0 +1,2 @@
+- https://www.educba.com/what-is-oracle/
+- https://www.javatpoint.com/what-is-oracle

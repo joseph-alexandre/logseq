@@ -1,0 +1,3 @@
+- https://www.codecademy.com/resources/blog/what-is-a-framework/
+- https://www.freecodecamp.org/news/what-is-a-framework-software-frameworks-definition/
+- [[Spring]]

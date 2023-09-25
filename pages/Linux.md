@@ -1,0 +1,6 @@
+- https://www.linux.com/what-is-linux/
+- https://www.redhat.com/en/topics/linux/what-is-linux
+- https://www.digitalocean.com/community/tutorials/linux-commands
+- https://www.hostinger.com/tutorials/linux-commands
+- [[Ubuntu]]
+-

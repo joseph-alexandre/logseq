@@ -1,0 +1,3 @@
+- https://frontendmasters.com/guides/front-end-handbook/2018/what-is-a-FD.html
+- https://www.w3schools.com/howto/howto_blog_become_frontenddev.asp
+- [[Programming Language]]
