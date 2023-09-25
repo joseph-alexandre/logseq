@@ -1,0 +1,5 @@
+- https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management
+- https://www.debian.org/doc/manuals/aptitude/pr01s02.en.html
+- https://learn.microsoft.com/en-us/windows/package-manager/
+- [[Chocolatey]]
+- [[apt-get]]

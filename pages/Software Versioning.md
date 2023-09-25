@@ -1,0 +1,4 @@
+- [[Git]]
+- https://en.wikipedia.org/wiki/Software_versioning
+- https://www.techopedia.com/definition/25977/software-versioning
+- https://www.techrepublic.com/article/what-is-versioning/
